@@ -1,6 +1,6 @@
 # 🏥 Personal Health Guard
 **Machine Learning Based Healthcare Prediction System**
-*Team: Ranjith S, M Durga Prasad, Kishore Kumar M — Guided by Mrs. Saranya, AI&DS*
+ Ranjith S
 
 ---
 
